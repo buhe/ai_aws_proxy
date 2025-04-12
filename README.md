@@ -1,2 +1,5 @@
-## OpenAI aws lambda proxy
-- Support stream.
+## AI aws lambda proxy
+- Support stream
+- OpenAI
+- Grok
+- Gemini
